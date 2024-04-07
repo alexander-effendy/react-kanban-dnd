@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div>Hey</div>
+      <div className="grid place-items-center h-screen text-white text-2xl w-screen bg-black">Hey</div>
     </>
   )
 }
